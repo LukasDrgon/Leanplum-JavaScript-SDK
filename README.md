@@ -20,8 +20,10 @@
 This is the JavaScript SDK for Leanplum, allowing developers to access and integrate the functionality of Leanplum with applications and devices through JavaScript and HTML5. Leanplum is an application development platform that provides mobile A/B testing, messaging functionality, personalization, and more features for applications.
 ## Installation
 Add leanplum.js to your project:
-```javascript
+```html
 <script type="text/javascript" src="leanplum.js"></script>
+<-- or simply include it via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/leanplum-sdk@1"></script>
 ```
 ## Usage
 Initialize Leanplum.
