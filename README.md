@@ -22,6 +22,8 @@ This is the JavaScript SDK for Leanplum, allowing developers to access and integ
 Add leanplum.js to your project:
 ```javascript
 <script type="text/javascript" src="leanplum.js"></script>
+<-- or simply include it via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/leanplum-sdk@1"></script>
 ```
 ## Usage
 Initialize Leanplum.
